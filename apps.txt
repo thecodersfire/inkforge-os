@@ -55,3 +55,20 @@ org.kde.dolphin
 io.github.flattool.Warehouse
 org.gnome.meld
 org.blender.Blender
+
+# Fifteen further purpose-specific applications
+org.shotcut.Shotcut
+fr.handbrake.ghb
+org.openshot.OpenShot
+org.kde.glaxnimate
+org.kde.subtitlecomposer
+org.kde.kphotoalbum
+org.kde.kid3
+org.gnome.Loupe
+org.kde.kasts
+org.jellyfin.JellyfinDesktop
+com.rawtherapee.RawTherapee
+org.kde.gwenview
+org.kde.kolourpaint
+org.kde.kamoso
+org.kde.kwave
